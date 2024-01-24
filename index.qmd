@@ -1,11 +1,24 @@
 ---
-title: "lauracandeias.github.io"
+title: "Laura Candeias"
+image: foto_laura.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:laura.grazielly@ufpe.br
+    - text: GitHub
+      icon: github
+      href: https://github.com/lauracandeias
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/lauragrazielly/
+  id: sobre
 ---
 
-This is a Quarto website.
+:::{#sobre}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Laura Candeias, graduanda em Ciência Política pela Universidade Federal de Pernambuco.
+:::
