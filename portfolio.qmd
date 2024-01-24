@@ -1,0 +1,20 @@
+---
+title: "Portfólio"
+image: foto_laura.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:laura.grazielly@ufpe.br
+    - text: GitHub
+      icon: github
+      href: https://github.com/lauracandeias
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/lauragrazielly/
+---
+
+Aqui você pode conferir meus projetos mais recentes.

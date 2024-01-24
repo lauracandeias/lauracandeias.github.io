@@ -20,5 +20,5 @@ about:
 
 :::{#sobre}
 
-Laura Candeias, graduanda em Ciência Política pela Universidade Federal de Pernambuco.
+I am an undergraduate student in the Political Science department at the Universidade Federal de Pernambuco. I am currently working as a research assistant in the department of research at the Fundação José Luiz Egydio Setúbal. I'm also a member of the [Laboratory of Computational and Experimental Political Science](https://cpcex-lab.rbind.io/en/).
 :::

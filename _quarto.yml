@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "lauracandeias.github.io"
+  title: "Laura Candeias"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - CV.qmd
+      - portfolio.qmd
 
 format:
   html:

@@ -1,0 +1,28 @@
+---
+title: "Curriculum Vitae"
+image: foto_laura.jpg
+about: 
+  template: solana
+  image-shape: round
+  image-width: 10em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:laura.grazielly@ufpe.br
+    - text: GitHub
+      icon: github
+      href: https://github.com/lauracandeias
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/lauragrazielly/
+---
+
+### Education
+
+-   B.A. in Political Science (minor in IR), Federal University of Pernambuco, 2021-2025
+
+### Experience
+
+-   .
+
+### **Additional information**
