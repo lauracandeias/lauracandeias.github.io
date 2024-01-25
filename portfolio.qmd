@@ -1,5 +1,5 @@
 ---
-title: "Portfólio"
+title: "Projects"
 image: foto_laura.jpg
 about: 
   template: trestles
@@ -17,4 +17,8 @@ about:
       href: https://www.linkedin.com/in/lauragrazielly/
 ---
 
-Aqui você pode conferir meus projetos mais recentes.
+### Projects I've been working on.
+
+1.   .
+
+2.  .
