@@ -20,5 +20,7 @@ about:
 
 :::{#sobre}
 
-I am an undergraduate student in the Political Science department at the Universidade Federal de Pernambuco. I am currently working as a research assistant in the department of research at the Fundação José Luiz Egydio Setúbal. I'm also a member of the [Laboratory of Computational and Experimental Political Science](https://cpcex-lab.rbind.io/en/).
+Hello!
+
+I am an undergraduate student in the Political Science department at the Universidade Federal de Pernambuco. Previously, I was a research assistant in the Department of Research at the [Fundação José Luiz Egydio Setúbal](https://fundacaojles.org.br/departamento-de-pesquisa/) and a member of the [Laboratory of Computational and Experimental Political Science](https://cpcex-lab.rbind.io/en/).
 :::
